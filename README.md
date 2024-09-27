@@ -1,2 +1,3 @@
-# ---
-Project-Flutter-Bakery Application
+# flutter_application_3
+
+A new Flutter project.
